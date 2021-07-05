@@ -24,7 +24,7 @@ The plagiarism works by taking two png/jpeg images and using textual conversion 
 
 This project is our submission for the Hack3 hackathon on June 27, 2021.
 
-Team: Sanjay Seenivasan, Roozbeh Ali, Andrew Tang, Matthew Tang
+Team: Sanjay Seenivasan, Roozbeh Ali, Andrew Wang, Matthew Tang
 
 ## More Pictures
 
